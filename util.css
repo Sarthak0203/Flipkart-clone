@@ -1,0 +1,22 @@
+
+
+.text-center-m1{
+    background-color: white;
+    font-weight: 500;
+    margin-top: 21px;
+    font-family: Helvetica, sans-serif;
+}
+
+
+.text-center-m5{
+    background-color: white;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.text-center-m5-nobold{
+    background-color: white;
+    text-align: center;
+    font-weight: normal;
+    margin-top: 20px;
+}
